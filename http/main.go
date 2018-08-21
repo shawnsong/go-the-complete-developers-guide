@@ -7,8 +7,6 @@ import (
 	"os"
 )
 
-type logWriter struct{}
-
 func main() {
 
 	resp, err := http.Get("https://google.com")
