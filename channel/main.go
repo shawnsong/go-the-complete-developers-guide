@@ -4,5 +4,5 @@ func main() {
 
 	// checkWebsites()
 	// borningMain()
-	longChain(100000)
+	longChain(1000000)
 }
