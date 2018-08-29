@@ -3,5 +3,6 @@ package main
 func main() {
 
 	// checkWebsites()
-	borningMain()
+	// borningMain()
+	longChain(100000)
 }
